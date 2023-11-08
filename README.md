@@ -1,2 +1,0 @@
-# VendaFacilSystem
-Sistema Venda Fácil
